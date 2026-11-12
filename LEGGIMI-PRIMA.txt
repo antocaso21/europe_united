@@ -1,0 +1,28 @@
+EUROPE UNITED - SITO CORRETTO - ISTRUZIONI PER GITHUB PAGES
+
+PROBLEMA PRECEDENTE
+GitHub ha ricevuto i file delle immagini e dei fogli di stile nella radice,
+mentre gli HTML li cercavano sotto assets/. Di conseguenza il sito appariva
+senza formattazione e le immagini non si caricavano.
+
+QUESTA VERSIONE
+Tutti i file HTML, CSS, JavaScript e le immagini stanno allo stesso livello.
+NON esistono sottocartelle. Tutti i riferimenti sono gia corretti.
+
+COME RIPARARE IL SITO GIA PUBBLICATO
+1. Estrai QUESTO ZIP sul computer.
+2. Apri la cartella EUROPE-UNITED-CARICA-QUESTI-FILE.
+3. Nel repository GitHub del sito, clicca Add file > Upload files.
+4. Seleziona e trascina TUTTI i file che trovi DENTRO la cartella.
+   NON trascinare soltanto la cartella e NON caricare lo ZIP.
+5. Clicca Commit changes e attendi il completamento della pubblicazione.
+6. Apri il sito e premi Ctrl+F5 (Windows) o Cmd+Shift+R (Mac) per
+   aggiornare la cache del browser.
+
+NOTA
+I file della pubblicazione precedente che rimangono nel repository non
+bloccano il sito: le nuove pagine fanno riferimento ai file corretti nella
+radice. Per pulizia, si possono eliminare i vecchi file inutilizzati in seguito.
+
+Le pagine sono 13 e sono tutte in lingua italiana. Il logo e le tre foto
+fornite, MigrACTION (partner) ed EDU-AI 2.0 (associated partner) sono inclusi.
